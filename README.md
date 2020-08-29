@@ -5,5 +5,5 @@ Apart from my love for [party parrots](https://github.com/vipulgupta2048/partyst
 I [write](http://mixstersite.wordpress.com/), [speak](https://github.com/vipulgupta2048/talkswith2048/edit/master/README.md#talks-with-2048), [design](https://github.com/vipulgupta2048/talkswith2048/edit/master/README.md#design-by-2048), [attend](https://github.com/vipulgupta2048/talkswith2048/edit/master/README.md#conferences-with-2048), [participate](https://github.com/vipulgupta2048/talkswith2048/edit/master/README.md#google-summer-of-code-with-2048) and [organise](https://meetup.com/pydelhi) a ton of things on the side over the weekends. You might say my work life balance is messed up. But, I can't hear you over the sound of 2020 crashing my life and my code. Imposter syndrome has been a distant relative of mine and someday I wish to visit the aurora borealis.
 
 📫 How to reach me: [Ergonomic Email](https://vipulgupta2048.me), [Shitposting Twitter](https://vipulgupta2048.me) and [Really good highlights Instagram](https://vipulgupta2048.me) (In order of preference)  
-😄 Pronouns: He/Him  
-👀 Recommended Reading: [4 Months Of Full-time Remote: Hits, Misses And Infectious Initiative](https://mixstersite.wordpress.com/2020/08/23/four-months-remote-2020/)
+👀 Recommended Reading: [4 Months Of Full-time Remote: Hits, Misses And Infectious Initiative](https://mixstersite.wordpress.com/2020/08/23/four-months-remote-2020/)  
+😄 Pronouns: He/Him 
