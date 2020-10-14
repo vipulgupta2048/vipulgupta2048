@@ -6,6 +6,6 @@ I [write](http://mixstersite.wordpress.com/), [speak](https://github.com/vipulgu
 
 📫 How to reach me: [Ergonomic Email](https://vipulgupta2048.me), [Shitposting Twitter](https://vipulgupta2048.me) and [Really good highlights Instagram](https://vipulgupta2048.me) (In order of preference)  
 👀 Recommended Reading: [4 Months Of Full-time Remote: Hits, Misses And Infectious Initiative](https://mixstersite.wordpress.com/2020/08/23/four-months-remote-2020/)  
-📢 Name pronounced as _We-pull_
+📢 Name pronounced as _We-pull_  
 😄 Pronouns: He/Him 
 
