@@ -1,10 +1,12 @@
 ### Hello folks, this is Vipul :hatching_chick:
 
-Apart from my love for [party parrots](https://github.com/vipulgupta2048/partystarter) and [vanilla](https://mixstersite.wordpress.com), I build stuff at [balena](https://balena.io) and don't just write docs at [Mixster](https://bit.ly/whatmixster).
+At [balena](https://balena.io), I am building an open-source hardware testing jig & automation framework to test (embedded) operating systems directly on an IoT device. Leviathan is an e2e testing framework to test operating systems on multiple workers & Autokit is a plug-and-play automation jig used by our customers & partners to support BalenaOS on their hardware. Apart from wearing multiple hats at work, I help open-source organizations "right" their docs with [Mixster](https://bit.ly/whatmixster).
 
-I [write](http://mixstersite.wordpress.com/), [speak](https://github.com/vipulgupta2048/talkswith2048/edit/master/README.md#talks-with-2048), [design](https://github.com/vipulgupta2048/talkswith2048/edit/master/README.md#design-by-2048), [attend](https://github.com/vipulgupta2048/talkswith2048/edit/master/README.md#conferences-with-2048), [participate](https://github.com/vipulgupta2048/talkswith2048/edit/master/README.md#google-summer-of-code-with-2048) and [organise](https://meetup.com/pydelhi) a ton of things over the weekends as a way of giving back to open-source. No, I don't like [2048, the game](https://github.com/vipulgupta2048/talkswith2048/edit/master/README.md#about-2048) to have the same digits be in my username and I review cheesecakes in each country I visit.
+I also have been [documenting my life](http://mixster.dev/), [try to speak more about my work](https://github.com/vipulgupta2048/talkswith2048/edit/master/README.md#talks-with-2048), and [organize even more conferences & meetups](https://in.pycon.org). I believe in ethical open-source contributions, radical candor (friends don't let friends be wrong), and trying cheesecakes in each country I visit.
 
-📫 How to reach me: [Email](vipulgupta2048[At]gmail{DOT}com), [Twitter](https://twitter.com/vipulgupta2048) and [Instagram](https://www.instagram.com/vipulgupta.travel/) (In order of preference)  
+
+📫 How to reach me: [Email](vipulgupta2048[At]gmail{DOT}com), [Twitter](https://twitter.com/vipulgupta2048), [Instagram](https://www.instagram.com/vipulgupta.travel/) and [Linkedin](https://linkedin.com/in/vipulgupta2048) (In order of preference)
 😄 Pronouns: He/Him, name pronounced as _We-pull_  
-⛰ Next trip: [Let's Goto X](https://mixstersite.wordpress.com/lets-goto/)
+⛰ Life Documentation: [Travel stories](https://instagram.com/vipulgupta2048), [Mixster](https://mixster.dev), [open-source](https://github.com/vipulgupta2048/talkswith2048)
+
 
