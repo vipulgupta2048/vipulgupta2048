@@ -11,5 +11,4 @@ I am a documentarian in life and have been [documenting my life](http://mixster.
 🔊 Pronounced as _We-pull_  
 ⛰ Currently learning: ReactJS 
 
-You are the <img src="https://komarev.com/ghpvc/?username=vipulgupta2048&color=green&style=flat-square&label=" height=18 width=25 >th reading this.
-
+<img src="https://komarev.com/ghpvc/?username=vipulgupta2048&color=green&style=flat-square&label=" height=18 width=25 > people have read this before you.
