@@ -9,6 +9,6 @@ I am a documentarian in life and have been [documenting my life](http://mixster.
 📝 Vipul's Docs: [docs.mixster.dev/](https://docs.mixster.dev)   
 🌞 Pronouns: He/Him 
 🔊 Pronounced as _We-pull_  
-⛰ Currently learning: ReactJS 
+⛰ Currently learning: ReactJS & AI agents
 
 <img src="https://komarev.com/ghpvc/?username=vipulgupta2048&color=green&style=flat-square&label=" height=18 width=25 > people have read this before you.
