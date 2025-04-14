@@ -8,6 +8,8 @@ Leviathan is an e2e testing framework to test operating systems on multiple work
 
 Apart from my full-time commitment, I run [Mixster](https://bit.ly/whatmixster) to enable startups and organizations to "right" their docs, build their engineering culture and create scalable content pipelines from scratch. Our USP: `We are engineers who love writing docs`.
 
+Offline, I volunteer to put together PyCon India as Content Lead, run a 3000+ members student community ALiAS to mentor college students, and organize GitHub's GitTogether meetups.
+
 I am a documentarian in life too and have been [documenting my life](http://mixster.dev/), [work](https://docs.mixster.dev/), and [travel](https://docs.mixster.dev/Communities) extensively. I believe strongly in ownership, eliminating problems, radical candor (friends don't let friends be wrong), transparency, collaboration, and trying cheesecakes in every place I visit. 
 
 📝 Vipul's Docs & Resume: [docs.mixster.dev](https://docs.mixster.dev)   
