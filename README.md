@@ -10,11 +10,10 @@ Apart from my full-time commitment, I run [Mixster](https://bit.ly/whatmixster) 
 
 I am a documentarian in life too and have been [documenting my life](http://mixster.dev/), [work](https://docs.mixster.dev/), and [travel](https://docs.mixster.dev/Communities) extensively. I believe strongly in ownership, eliminating problems, radical candor (friends don't let friends be wrong), transparency, collaboration, and trying cheesecakes in every place I visit. 
 
-📝 Vipul's Docs: [docs.mixster.dev](https://docs.mixster.dev)   
-🌞 Pronouns: He/Him 
+📝 Vipul's Docs & Resume: [docs.mixster.dev](https://docs.mixster.dev)   
+🌞 Pronouns: He/Him  
 🔊 Pronounced as _We-pull_  
-⛰ Wonders of the World Tracker: 3 out of 7
-
+⛰ Wonders of the World Tracker: 3 out of 7  
 <img src="https://komarev.com/ghpvc/?username=vipulgupta2048&color=green&style=flat-square&label=" height=18 width=25 > people have read this before you.    
   
 <img width="131" alt="Written-By-Human-Not-By-AI-Badge-black@2x" src="https://github.com/user-attachments/assets/847dd474-1d1d-462a-a115-d162e544f714" /> 
