@@ -18,5 +18,5 @@ I am a documentarian in life too and have been [documenting my life](http://mixs
 ⛰ Wonders of the World Tracker: 3 out of 7  
 <img src="https://komarev.com/ghpvc/?username=vipulgupta2048&color=green&style=flat-square&label=" height=18 width=25 > people have read this before you.    
   
-<img width="131" alt="Written-By-Human-Not-By-AI-Badge-black@2x" src="https://github.com/user-attachments/assets/847dd474-1d1d-462a-a115-d162e544f714" /> 
-<a href="mailto:vipulgupta2048@gmail.com"><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/naren/mailput.gif" /></a>
+<a href="https://notbyai.fyi/#not-by-ai-mission"><img width="131" alt="Written-By-Human-Not-By-AI-Badge-black@2x" src="https://github.com/user-attachments/assets/847dd474-1d1d-462a-a115-d162e544f714" /></a>
+<a href="mailto:vipulgupta2048@gmail.com"><img alt="vipul gupta email" src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/naren/mailput.gif" /></a>
