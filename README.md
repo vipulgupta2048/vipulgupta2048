@@ -12,7 +12,7 @@ Offline, I volunteer to put together PyCon India as Content Lead, [OpenHiL](http
 
 I am a documentarian in life too and have been [documenting my life](http://mixster.dev/), [work](https://docs.mixster.dev/), and [travel](https://mixster.dev/lets-goto/) extensively. I strongly believe in ownership, eliminating problems, and radical candor (friends don't let friends be wrong). I also believe in trying a cheesecake in every place I visit.
 
-📝 Vipul's Docs & Resume: [docs.mixster.dev](https://docs.mixster.dev) - All FOSS Contributions
+📝 FOSS Contributions: [docs.mixster.dev](https://docs.mixster.dev)  
 🌞 Pronouns: He/Him  
 🔊 Pronounced as _We-pull_  
 ⛰ Wonders of the World Tracker: 3 out of 7  
