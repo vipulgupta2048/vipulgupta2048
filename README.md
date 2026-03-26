@@ -1,6 +1,6 @@
 ## Hi, this is Vipul  <img src="https://docs.mixster.dev/img/hatching.gif" height=25 width=25 />
 
-I am an award-winning software engineer building hard-tech products in the open, scalable systems in resource-constrained environments, and sustaining open-source communities for a decade.
+I am a software engineer building hard-tech products in the open, scalable systems in resource-constrained environments, and sustaining open-source communities for a decade.
 
 At [Command Code](https://commandcode.ai), I own developer experience end-to-end — Already eliminating DX friction from Auth floows, building core features like the VSCode Extension integration, and shipping PTY-based test infrastructure, for a terminal-based coding agent that continuously learns your coding taste.
 
